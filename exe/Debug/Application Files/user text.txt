@@ -1,0 +1,8 @@
+coś 
+
+coś innego
+   &pod_zespoły
+   &pod_zespoły
+         &pod_zespoły
+
+coś jeszcze innego
