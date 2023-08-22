@@ -1,5 +1,0 @@
-Mark line with $$
-/////////////////
-- nothing	-> 
-- closing app	-> $$
-- shutdown pc	-> 
